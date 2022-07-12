@@ -1,0 +1,7 @@
+@import url(./bootstrap.min.css);
+
+.container {
+    display: flex; /* or inline-flex */
+  }
+
+  
